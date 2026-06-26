@@ -1,0 +1,8 @@
+El uso responsable de la información en internet es clave
+para una participación ciudadana consciente.Cuando las
+personas verifican lo que leen antes de compartirlo, ayudan
+a evitar la desinformación. Esto influye directamente en la
+forma en que la sociedad toma decisiones y se comunica. Además,
+herramientas como Git permiten organizar el trabajo técnico
+de Manera ordenada y transparente. Así como se valida la
+información en internet,en Git se revisan los cambios antes de publicarlos
